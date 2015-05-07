@@ -30,6 +30,12 @@ body {
   padding: 0.2em 0;
 }
 
+.logo {
+  background: url('../images/nd_logo_light.png') left center no-repeat;
+  background-size: contain;
+  height: 72px;
+}
+
 .banner {
   background: url('../images/daily-press-bg.jpg');
   height: 300px;
